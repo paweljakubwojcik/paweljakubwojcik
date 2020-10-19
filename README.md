@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on anything
 - ⚡ Fun fact: I'm a part time musician, playing guitar and recording my solo album 
 
-![Javascript](/js-brands.svg)
+<img src='/js-brands.svg' width='30px' height='30px'>
