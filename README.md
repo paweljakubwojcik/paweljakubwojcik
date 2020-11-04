@@ -23,4 +23,6 @@ I'm just a humble junior dev & student on Warsaw's Univercity of Technology.
   </a>
 </div>
 
-#### [Click here to see my CodePen :pen:](https://codepen.io/paweljakubwojcik)
+#### :pen:[Click here to see my CodePen ](https://codepen.io/paweljakubwojcik):pen:
+
+#### :point_down: Scroll a little more to view my projects :point_down:
