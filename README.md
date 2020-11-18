@@ -1,6 +1,9 @@
 ### Hello there 
 I'm just a humble junior dev & student on Warsaw's Univercity of Technology.
 
+#### Quote for today
+"Happiness is measured in commits per day"
+
 #### My Technology Stack: 
 <div width:800px>
   <a href="https://developer.mozilla.org/pl/docs/Web/JavaScript/" style="">
