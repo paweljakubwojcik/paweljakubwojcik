@@ -4,25 +4,25 @@ I'm just a humble junior dev & student on Warsaw's Univercity of Technology.
 #### My Technology Stack: 
 <div width:800px>
   <a href="https://developer.mozilla.org/pl/docs/Web/JavaScript/" style="">
-    <img src='/svg/js-brand.svg' width='30px' height='30px'>
+    <img src='/svg/js-brand.svg'  height='30px'>
   </a>
   <a href="https://en.reactjs.org/" style="">
-    <img src='/svg/reactja-icon.svg' width='30px' height='30px'>
+    <img src='/svg/reactjs-icon.svg'  height='30px'>
   </a>
   <a href="https://sass-lang.com/" style="">
-    <img src='/svg/sass-lang-icon.svg' width='30px' height='30px'>
+    <img src='/svg/sass-lang-icon.svg'  height='30px'>
   </a>
    <a href="https://nodejs.org/en/" style="">
-    <img src='/svg/node-icon.svg' width='30px' height='30px'>
+    <img src='/svg/nodejs-icon.svg'  height='30px'>
   </a>
    <a href="https://expressjs.com/" style="">
-    <img src='/svg/expressjs-icon.svg' width='30px' height='30px'>
+    <img src='/svg/expressjs-icon.svg' height='30px'>
   </a>
   <a href="https://www.mongodb.com/" style="">
-    <img src='/svg/mongodb-ar21.svg' width='30px' height='30px'>
+    <img src='/svg/mongodb-ar21.svg'  height='30px'>
   </a>
   <a href="https://graphql.org/" style="">
-    <img src='/svg/graphql-icon.svg' width='30px' height='30px'>
+    <img src='/svg/graphql-icon.svg'  height='30px'>
   </a>
 </div>
 
