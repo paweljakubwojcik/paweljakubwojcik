@@ -24,6 +24,9 @@ I'm just a humble junior dev & student on Warsaw's Univercity of Technology.
   <a href="https://graphql.org/" style="">
     <img src='/svg/graphql-icon.svg'  height='30px'>
   </a>
+  <a href="https://www.apollographql.com/docs/" style="">
+    <img src='/svg/apollographql-icon.svg'  height='30px'>
+  </a>
 </div>
 
 #### :pen:[Click here to see my CodePen ](https://codepen.io/paweljakubwojcik):pen:
