@@ -9,6 +9,9 @@ I'm just a humble junior dev & student on Warsaw's Univercity of Technology.
   <a href="https://en.reactjs.org/" style="">
     <img src='/svg/reactjs-icon.svg'  height='30px'>
   </a>
+   <a href="https://www.gatsbyjs.com/" style="">
+    <img src='/svg/gatsbyjs-icon.svg'  height='30px'>
+  </a>
   <a href="https://sass-lang.com/" style="">
     <img src='/svg/sass-lang-icon.svg'  height='30px'>
   </a>
