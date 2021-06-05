@@ -9,6 +9,9 @@ I'm just a humble junior dev & student on Warsaw's Univercity of Technology.
   <a href="https://en.reactjs.org/" style="">
     <img src='/svg/reactjs-icon.svg'  height='30px'>
   </a>
+   <a href="https://www.typescriptlang.org/" style="">
+    <img src='/svg/typescript-icon.svg'  height='30px'>
+  </a>
    <a href="https://www.gatsbyjs.com/" style="">
     <img src='/svg/gatsbyjs-icon.svg'  height='30px'>
   </a>
@@ -32,6 +35,4 @@ I'm just a humble junior dev & student on Warsaw's Univercity of Technology.
   </a>
 </div>
 
-#### :pen:[Click here to see my CodePen ](https://codepen.io/paweljakubwojcik):pen:
-
-#### :point_down: Scroll a little more to view my projects :point_down:
+#### :point_down: Scroll down to view my projects :point_down:
