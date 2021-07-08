@@ -18,6 +18,9 @@ I'm just a humble junior dev & student on Warsaw's Univercity of Technology.
   <a href="https://sass-lang.com/" style="">
     <img src='/svg/sass-lang-icon.svg'  height='30px'>
   </a>
+   <a href="https://styled-components.com/" style="">
+    <img src='/styled-components 1.svg'  height='30px'>
+   </a>
    <a href="https://nodejs.org/en/" style="">
     <img src='/svg/nodejs-icon.svg'  height='30px'>
   </a>
@@ -26,6 +29,9 @@ I'm just a humble junior dev & student on Warsaw's Univercity of Technology.
   </a>
   <a href="https://www.mongodb.com/" style="">
     <img src='/svg/mongodb-ar21.svg'  height='30px'>
+  </a>
+   <a href="https://www.postgresql.org/" style="">
+    <img src='/postgresql-icon.svg'  height='30px'>
   </a>
   <a href="https://graphql.org/" style="">
     <img src='/svg/graphql-icon.svg'  height='30px'>
