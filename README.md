@@ -33,6 +33,9 @@ I'm just a humble junior dev & student on Warsaw's Univercity of Technology.
   <a href="https://www.apollographql.com/docs/" style="">
     <img src='/svg/apollographql-icon.svg'  height='30px'>
   </a>
+  <a href="https://jestjs.io/" style="">
+    <img src='/svg/jest.svg'  height='30px'>
+  </a>
 </div>
 
 #### :point_down: Scroll down to view my projects :point_down:
